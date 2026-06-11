@@ -1,4 +1,8 @@
 # T-SQL Syntax Guide & Dictionary (SQLFULL) 🚀
+![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?&logo=microsoft-sql-server&logoColor=white)
+![Language](https://img.shields.io/badge/Language-TR%20%2F%20EN-blue?)
+![Status](https://img.shields.io/badge/Build-Passing-brightgreen?)
+![License](https://img.shields.io/badge/License-MIT-yellow?)
 
 [TR] Bu repo, T-SQL (Microsoft SQL Server) dilinin temel ve orta düzey konseptlerini içeren, kod üzerinde açıklamalı bir rehber ve sözlük çalışmasıdır. Okulda ve kişisel gelişim sürecimde öğrendiğim SQL pratiklerini kalıcı hale getirmek amacıyla iki dilde dökümante edilmiştir.
 
