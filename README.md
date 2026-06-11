@@ -49,4 +49,9 @@
 3. Sorguyu bir query penceresine yapıştırıp `Execute` (F5) butonuna basın.
 
 ---
+## Navigate to your project directory:
+   ```bash
+https://github.com/EgeSul/SQLFULL-TSQL-Guide)
+```
+---
 *Bu çalışma Ege Sül tarafından bir geliştirici rehberi olarak tasarlanmıştır.*
